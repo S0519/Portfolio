@@ -1,10 +1,11 @@
 # Portfolio
 
 
-Project Title: portfolio
+-Project Title: portfolio
 
-Description: This is my first portfolio project, 
-showcasing a my skills.
+-Description: This is my first portfolio project, showcasing a my skills.
 
-Executing program: This site was coded using HTML, CSS and Java-script. 
+-Executing program: This site was coded using HTML, CSS and Java-script. 
+
+URL: https://s0519.github.io/Portfolio/
 
