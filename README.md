@@ -4,7 +4,7 @@ portfolio
 
 
 ## Description: 
-This is my portfolio project, showcasing a my skills.
+This is my portfolio project, showcasing  my skills.
 
 
 ## Executing program: 
