@@ -718,3 +718,71 @@ body{
   opacity: 1;
 }
 
+   
+}
+@media (max-width:576px){
+    #mainCon, #demo{
+        min-height: 50vh;
+    }
+    #mainCon{
+        margin-bottom:50px;
+    }
+    .largeServiceImg{
+        margin-bottom: 10px;
+    }
+    #demo img, .section{
+        height: 50vh;
+    }   
+    .section h1{
+        font-size: 2em;
+    }
+    .section p{
+        font-size: 15px;
+    }
+    .navbar-brand img{
+        width: 150px;
+    }
+    .navbar-collapse{
+        background-color: #056fbb;
+    }
+    .footer .copyrightText{
+        float: right;
+        color: #7c8285;
+        margin-top: 20px;
+        font-size: 0.7em;
+    }
+    .textConAbout p{
+        color: #c1c2c4;
+        font-size: 1em;
+    }
+    .sideIcons{
+        right:30px;
+    }
+    .symbolImg{
+        display: none;
+    }
+    .roundBoxContact{
+        /* padding-top: 200px; */
+        padding-left: 0px;
+        padding-right: 100px;
+    }
+    .centerColLeft{
+        width: 100%;
+        margin-top: 120px;
+    }
+    .listButtons{
+        padding: 10px 10px 5px;
+        margin-bottom: 10px;
+    }
+    .imgBox{
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+    .fullHeight2{
+        height: unset;
+    }
+    .sameLine{
+        display: block;
+    }
+}
+
